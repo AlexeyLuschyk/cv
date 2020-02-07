@@ -1,2 +1,2 @@
 # rsschool-cv
-Junior front-end developer CV
+https://alexeyluschyk.github.io/rsschool-cv/cv
