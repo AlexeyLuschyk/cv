@@ -20,7 +20,7 @@ I am very purposeful, honest and reliable person. I prefer working in a team, bu
 **_Tools:_** HTML5, CSS3, JavaScript, Bootstrap
 **_Database Management:_** Firebase
 **_Source Control:_** Git
-**_Codewars:_** 6 kyu.
+**_Codewars:_** 6 kyu. [@insnowwetrust](https://www.codewars.com/users/insnowwetrust)
       
 ### Education
 
