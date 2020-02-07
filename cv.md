@@ -1,18 +1,18 @@
 ## Alexey Luschyk
 	
 **_Mobile_**:  +375293493787
-**_Email_**: a.luschyk@gmail.com	
-**_Skype_**: Alexey Luschyk	
-**_LinkedIn_**: linkedin.com/in/alexey-luschyk-abbb62192	  
+**_Email_**: a.luschyk@gmail.com
+**_Skype_**: Alexey Luschyk
+**_LinkedIn_**: [linkedin.com/in/alexey-luschyk-abbb62192](linkedin.com/in/alexey-luschyk-abbb62192)
 **_Telegram_**: @insnowwetrust	
 
 ### Objective
 
-  **Applying for a position of a junior Front-end developer**
+**Applying for a position of a junior Front-end developer**
 
 ### Summary
 	
-	I am very purposeful, honest and reliable person. I prefer working in a team, but if necessary, I can be effective while working alone. I make contact with people quickly. I’m well-organized, non-conflict, sociable and able to make decisions and take responsibility. My goal is to improve myself continuously.
+I am very purposeful, honest and reliable person. I prefer working in a team, but if necessary, I can be effective while working alone. I make contact with people quickly. I’m well-organized, non-conflict, sociable and able to make decisions and take responsibility. My goal is to improve myself continuously.
 
 ### Skills
 
@@ -59,7 +59,6 @@ HTML5, CSS3, JS, Bootstrap, JSON, Firebase. In present time I’m working on imp
 
 
 **March 2011 – present time, Deputy head of service station – head of sales department, Volvo Trucks**
-
 **_Main responsibilities:_**
 *	Sales Management
 *	Team Leadership
@@ -87,3 +86,9 @@ Reason for applying for a job
     
 Currently, I’m focused on extending my developer skills. My priority goal is to obtain a position in a company that offers a variety of challenging projects with growth potential in terms of individual and professional development.
 I believe my degrees provide me crucial skills. My technical degree will allow me to analyze, draw up a plan and solve the task as quickly and efficiently as possible. It will also help me to find and understand necessary information or technology if I don’t have enough knowledge about it. And my linguistic degree gives me the ability to communicate with English speaking customers and to read professional literature in original. 
+
+**_Other interests:_**
+* Snowboarding for 14 years
+* Wakeboarding for 3 years
+* Belarus OCR Team athlete
+* Travelling
